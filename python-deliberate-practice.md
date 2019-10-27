@@ -1,18 +1,13 @@
 # Python Deliberate Practice
 
 ## Performance Outcomes
-Now that I've identified the gaps, I'll need to translate these into performance-based outcomes:
+The overall goal is to improve [software development skills](http://treycausey.com/software_dev_skills.html) for data science. Breaking this down this includes: 
 
-**1. Write high-quality, production-level python code**
+**1. Write elegant, production-level python code**
 
 **2. Reduce the number of errors by incorporating defensive programming**: Defensive programming include asserts, logging, and unit tests. This is important because producing error-free analysis is what will build trust with partners while opening up more opportunities for future projects. 
 
 **3. Accelerate code speed**: Improving code speed will be broken down into a few components:
-- Get better at translating logic into code 
-- Understanding different Python runtimes under the hood
-- Distributed Computing 
-
-Software Dev Skills - http://treycausey.com/software_dev_skills.html
 
 ### Influence/Leadership/Independence
 **3. Decide on the business area of focus**: This will require more thinking & experimentation. 
