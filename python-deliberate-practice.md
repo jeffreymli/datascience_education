@@ -71,7 +71,8 @@ Resources:
 *Specific Outcome* - Build an end to end ML pipeline using PySpark or Spark
 
 ## Scheduling 
-- How I plan to integrate these into my schedule 
+
+![schedule_1](/img/schedule_1.png)
 
 ## Test Week [11/3 to 11/10] - Pythonic Code 
 - Reevaluate on 11/10 on effectiveness of this plan. 
