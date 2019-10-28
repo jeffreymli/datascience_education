@@ -74,6 +74,10 @@ Resources:
 
 ![schedule_1](/img/schedule_1.png)
 
+Key decisions:
+- Will I do this in the morning or at night? **Morning**
+- If I do it in the morning, when/how will I commute to work? **boosted board or scooter**. this would significantly reduce my commute to about 15 minutes. 
+
 ## Test Week [11/3 to 11/10] - Pythonic Code 
 - Reevaluate on 11/10 on effectiveness of this plan. 
 
