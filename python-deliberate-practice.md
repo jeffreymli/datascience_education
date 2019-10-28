@@ -1,21 +1,24 @@
 # Python Deliberate Practice
 
 ## Performance Outcomes
-The overall goal is to improve [software development skills](http://treycausey.com/software_dev_skills.html) for data science. Breaking this down this includes: 
+The over-arching goal is to build a reputation of reliability & quality by improving my [software development skills](http://treycausey.com/software_dev_skills.html) for data science. 
 
-**1. Write elegant, production-level python code**
+To achieve a higher bar in quality, this includes: 
+
+**1. Write elegant, production-level python code**: Write read-able code that's clean, modular and re-usable. Elegant code should follow PEP8 standards and be using the best python practices. Cleanliness will also reduce the number of errors and make others' lives easier. 
 
 **2. Reduce the number of errors by incorporating defensive programming**: Defensive programming include asserts, logging, and unit tests. This is important because producing error-free analysis is what will build trust with partners while opening up more opportunities for future projects. 
 
 **3. Accelerate code speed**: Improving code speed will be broken down into a few components:
 
 ### Influence/Leadership/Independence
-**3. Decide on the business area of focus**: This will require more thinking & experimentation. 
+**4. Decide on the business area of focus**:
 
 ## Project Outcomes 
 
 ## Skill De-Construction 
-**1. Clean, Pythonic Code [11/3 to 11/10]** - Key here will be to remove bad habits from my programming, make my code legible and easy to understand. 
+#### 1. Clean, Pythonic Code [11/3 to 11/10]
+Key here will be to remove bad habits from my programming, make my code legible and easy to understand. 
 
 Resources:
 - [Clean Python - Chapter 1](https://www.amazon.com/dp/1788996666?aaxitk=O0D8QewWcjJgRm12H9gWAw&pd_rd_i=1788996666&pf_rd_p=44fc3e0f-4b9e-4ed8-b33b-363a7257163d&hsa_cr_id=4159268800601&sb-ci-n=asinImage&sb-ci-v=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71aUCNW6ONL.jpg&sb-ci-a=1788996666)
@@ -27,6 +30,8 @@ Resources:
 2. Active Recall on concepts by creating my own examples for blog post
 
 *Specific Outcome:* Write a blog post detailing best practices for writing clean python code. 
+
+<p>
 
 **2. Writing Better Functions/Classes [11/10 to 11/17]** - Improve the quality, effectiveness of the functions, classes I write. 
 
@@ -42,11 +47,13 @@ Resources:
 
 *Specific Outcome* - Read Clean Python + Active Recall on concepts by writing my own program.
 
+<p>
+
 **3. Debugging/Testing in Python[11/17 to 11/24]** - Key here will be to reduce the number of errors in my code. 
 
 - [Clean Python - Chapter 6](https://www.amazon.com/dp/1788996666?aaxitk=O0D8QewWcjJgRm12H9gWAw&pd_rd_i=1788996666&pf_rd_p=44fc3e0f-4b9e-4ed8-b33b-363a7257163d&hsa_cr_id=4159268800601&sb-ci-n=asinImage&sb-ci-v=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71aUCNW6ONL.jpg&sb-ci-a=1788996666)
 - [Improve Your Python Understanding - Jeff Knupp](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing) 
-- [How to Conduct Code Reviews[(https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+- [How to Conduct Code Reviews](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 *Method of Learning*
 1. Read Clean Python - Debugging/Testing or Read Scikit Learn Test Cases 
@@ -66,27 +73,6 @@ Resources:
 ## Scheduling 
 - How I plan to integrate these into my schedule 
 
-## Test Week [11/3 to 11/10]
-Pythonic Code - Will stress test this plan for the first section on Pythonic Code. After the first week, we'll re-evaluate the effectiveness of the current schedule. 
-
-
-
-
-
-
-
-
-- Read open source software 
-- daily Programmer challenge on reddit 
-- code katas 
-- project euler - https://github.com/nayuki/Project-Euler-solutions
-
-Keys:
-- Focused on a specific goal 
-- Needs immediate feedback 
-
-Project Ideas: 
-- Interpretability Package
-- Diff-in-Diff Package 
-
+## Test Week [11/3 to 11/10] - Pythonic Code 
+- Reevaluate on 11/10 on effectiveness of this plan. 
 
