@@ -37,7 +37,7 @@ Specific Outcome: Write a blog post detailing best practices for writing clean p
 
 **2. Writing Better Functions/Classes [11/10 to 11/17]** - Improve the quality, effectiveness of the functions, classes I write. 
 
-**Resources:** 
+Resources: 
 - [Clean Python - Chapter 3](https://www.amazon.com/dp/1788996666?aaxitk=O0D8QewWcjJgRm12H9gWAw&pd_rd_i=1788996666&pf_rd_p=44fc3e0f-4b9e-4ed8-b33b-363a7257163d&hsa_cr_id=4159268800601&sb-ci-n=asinImage&sb-ci-v=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71aUCNW6ONL.jpg&sb-ci-a=1788996666)
 - [Top 10 Tips & Tricks for Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk)
 - [Sci-Kit Learn Source code](https://github.com/scikit-learn/scikit-learn/tree/master/sklearn)
@@ -54,6 +54,7 @@ Specific Outcome - Read Clean Python + Active Recall on concepts by writing my o
 
 **3. Debugging/Testing in Python[11/17 to 11/24]** - Key here will be to reduce the number of errors in my code. 
 
+Resources:
 - [Clean Python - Chapter 6](https://www.amazon.com/dp/1788996666?aaxitk=O0D8QewWcjJgRm12H9gWAw&pd_rd_i=1788996666&pf_rd_p=44fc3e0f-4b9e-4ed8-b33b-363a7257163d&hsa_cr_id=4159268800601&sb-ci-n=asinImage&sb-ci-v=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71aUCNW6ONL.jpg&sb-ci-a=1788996666)
 - [Improve Your Python Understanding - Jeff Knupp](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing) 
 - [How to Conduct Code Reviews](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
