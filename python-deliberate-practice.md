@@ -24,6 +24,7 @@ Resources:
 - [Clean Python - Chapter 1](https://www.amazon.com/dp/1788996666?aaxitk=O0D8QewWcjJgRm12H9gWAw&pd_rd_i=1788996666&pf_rd_p=44fc3e0f-4b9e-4ed8-b33b-363a7257163d&hsa_cr_id=4159268800601&sb-ci-n=asinImage&sb-ci-v=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71aUCNW6ONL.jpg&sb-ci-a=1788996666)
 - [Clean Code in Jupyter Notebooks](https://www.youtube.com/watch?time_continue=390&v=2QLgf2YLlus)
 - [Data Scientists, Your Variable Names Suck. Here's how to fix them](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be)
+- [Pylint & Other Linting Tools](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
 
 Method of Learning/Training:
 1. Read Clean Python + Clean Code in Jupyter Notebooks [20 minutes]
@@ -68,11 +69,38 @@ Specific Outcome - Write Unit Tests for Interpretability class
 
 **4. Project - Productionize Interpretability Class or write Diff-in-Diff Library [11/24 to 11/31]** - Interpretability Class is already written. Re-writing dash_ml will likely be too much to take on. However, improving upon the interpretability class will allow me to apply everything learned in the prior three weeks. It'll also force me to get feedback from co-workers. 
 
-**5. Distributed Computing [11/31 to 12/31]** - Note: This is subject to change. The purpose here is to understand how to significantly accelerate the speed of my code. This can include:
+**5. Python Runtimes [12/1 to 12/8]**  - Understand Big Oh notation and the speed of different implementations. Key here is to better understand how code runs underneath the hood so I can speed up my code. 
+
+Resources:
+- [MIT's Intro to Computer Science & Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/MIT6_0001F16_Lec10.pdf)
+- Leetcode
+
+Method of Learning
+1. Read/Watch MIT Open Courseware Lecture [60 minutes]
+2. Active Recall on key concepts [10 minutes]
+3. Leetcode Problem + Optimize for Run-time[30 to 40 minutes]
+3. Commit my code to Github 
+
+**6. Distributed Computing [12/8 to 12/31]** - Note: This is subject to change. The purpose here is to understand how to significantly accelerate the speed of my code. This can include:
 - PySpark
 - Pandas UDF's
 
+Resources:
+- [DataCamp's PySpark Course](https://www.datacamp.com/courses/introduction-to-pyspark)
+
 *Specific Outcome* - Build an end to end ML pipeline using PySpark or Spark
+
+
+
+**7. Distributed Computing [11/31 to 12/31]** 
+
+In addition to the main curriculum, it'll be useful to improve my knowledge for tools to assist my development process. These should take at most, few hours to go through. These should all improve my development speed:
+
+**Git/Version Control** - Expand my current knowledge of different git commands. 
+
+**Linux/Unix Commands** - Expand my current knowledge of different linux commands. 
+
+**Sublime Shortcuts** - Learn all the important shortcuts in sublime text editor. 
 
 ## Scheduling 
 
