@@ -15,6 +15,9 @@ To achieve a higher bar in quality, this includes:
 - Understanding different runtimes 
 
 ## Project Outcomes 
+- Write a blog post outlining best Python programming practices 
+- Revamp & upgrade previous code, incorporating new concepts learned
+- Merge a contribution to dash_ml or another internal package 
 
 ## Skill De-Construction 
 #### 1. Clean, Pythonic Code [11/3 to 11/10]
