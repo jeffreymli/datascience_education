@@ -1,5 +1,7 @@
 # Google Python Style Guide Notes 
 
+[Link](http://google.github.io/styleguide/pyguide.html)
+
 ### Raising Exceptions
 - Avoid wrapping Try/Except statements in long lines of code. Long lines of code within a try, makes it more likely to raise an exception. 
 - When a program violates a specific programming mistake, raise an exception, like this `raise ValueError("Error Message")`. Avoid using an assert. 
