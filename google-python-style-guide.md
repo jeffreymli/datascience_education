@@ -20,6 +20,10 @@
 	- Obvious
 - A docstring should give the reader enough information to run the function without explicitly rewriting the entire function. 
 
+[Numpy Docstring Example](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html#example-numpy)
+
+[Python Docstring Example](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+
 ### Block and Inline Comments 
 
 - If you're going to have to explain multiple lines of code, this means you should write a comment. 
