@@ -28,6 +28,7 @@ Resources:
 - [Clean Code in Jupyter Notebooks](https://www.youtube.com/watch?time_continue=390&v=2QLgf2YLlus)
 - [Data Scientists, Your Variable Names Suck. Here's how to fix them](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be)
 - [Pylint & Other Linting Tools](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
+- [Coding Habits for Data Scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 
 Method of Learning/Training:
 1. Read Clean Python + Clean Code in Jupyter Notebooks [20 minutes]
