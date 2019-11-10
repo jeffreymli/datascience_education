@@ -55,6 +55,7 @@ Method of Learning
 - Get Stuck 
 - Identify concept to get unstuck 
 - Understand the concept
+3. Reflection + Plan Next Session [5 minutes] 
 
 Try this for a few days. If this doesn't work, then spend the entire time working on step 2. 
 
@@ -74,6 +75,7 @@ Method of Learning
 - Get Stuck 
 - Identify concept to get unstuck 
 - Understand the concept
+3. Reflection + Plan Next Session [5 minutes] 
 
 Specific Outcome - Write Unit Tests for Interpretability class 
 
@@ -95,7 +97,7 @@ Method of Learning
 1. Read/Watch MIT Open Courseware Lecture [60 minutes]
 2. Active Recall on key concepts [10 minutes]
 3. Leetcode Problem + Optimize for Run-time[30 to 40 minutes]
-3. Commit my code to Github 
+4. Commit my code to Github 
 
 **6. Distributed Computing [12/8 to 12/31]** - Note: This is subject to change. The purpose here is to understand how to significantly accelerate the speed of my code. This can include:
 - PySpark
