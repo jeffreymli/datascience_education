@@ -15,9 +15,10 @@ To achieve a higher bar in quality, this includes:
 - Understanding different runtimes 
 
 ## Project Outcomes 
-- Write a blog post outlining best Python programming practices 
-- Revamp & upgrade previous code, incorporating new concepts learned
-- Merge a contribution to dash_ml or another internal package 
+
+November - Productionize dash_ml interpretability package
+
+December - Build an end-to-end ML pipeline in Spark 
 
 ## Skill De-Construction 
 #### 1. Clean, Pythonic Code [11/3 to 11/10]
@@ -48,12 +49,14 @@ Resources:
 - [Sci-Kit Learn Source code](https://github.com/scikit-learn/scikit-learn/tree/master/sklearn)
 
 Method of Learning
-1. Read Clean Python - Ch. 3/Read Sci-Kit Learn Source Code [20 minutes] 
-2. Rewrite code in at least one script/notebook according to rules learned [20 minutes] 
-3. Active Recall on prior concepts [20 minutes] 
-4. Commit code to Github [1 minute] 
+1. Read Clean Python - Ch. 3 [20 minutes] 
+2. Interpretability Class [40 minutes] 
+- Write code for interpretability class 
+- Get Stuck 
+- Identify concept to get unstuck 
+- Understand the concept
 
-Specific Outcome - Read Clean Python + Active Recall on concepts by writing my own program.
+Try this for a few days. If this doesn't work, then spend the entire time working on step 2. 
 
 <p>
 
@@ -66,12 +69,21 @@ Resources:
 
 Method of Learning
 1. Read Clean Python - Debugging/Testing or Read Scikit Learn Test Cases 
-2. Write test cases for at least one previously written function [20 minutes]
-3. Commit my code to Github 
+2. Interpretability Class [40 minutes] 
+- Write code for interpretability class 
+- Get Stuck 
+- Identify concept to get unstuck 
+- Understand the concept
 
 Specific Outcome - Write Unit Tests for Interpretability class 
 
 **4. Project - Productionize Interpretability Class or write Diff-in-Diff Library [11/24 to 11/31]** - Interpretability Class is already written. Re-writing dash_ml will likely be too much to take on. However, improving upon the interpretability class will allow me to apply everything learned in the prior three weeks. It'll also force me to get feedback from co-workers. 
+
+Method of Learning
+1. Write code for interpretability class 
+2. Get Stuck 
+3. Identify concept to get unstuck 
+4. Understand the concept
 
 **5. Python Runtimes [12/1 to 12/8]**  - Understand Big Oh notation and the speed of different implementations. Key here is to better understand how code runs underneath the hood so I can speed up my code. 
 
@@ -93,12 +105,6 @@ Resources:
 - [DataCamp's PySpark Course](https://www.datacamp.com/courses/introduction-to-pyspark)
 
 *Specific Outcome* - Build an end to end ML pipeline using PySpark or Spark
-
-
-
-**7. Distributed Computing [11/31 to 12/31]** 
-
-In addition to the main curriculum, it'll be useful to improve my knowledge for tools to assist my development process. These should take at most, few hours to go through. These should all improve my development speed:
 
 **Git/Version Control** - Expand my current knowledge of different git commands. 
 
