@@ -108,6 +108,8 @@ Resources:
 
 *Specific Outcome* - Build an end to end ML pipeline using PySpark or Spark
 
+**Implementing ML Algorithms from Scratch** - Write my own implementation of popular machine learning algorithms. This'll force me to deeply understand the models I'm using while also forcing me to write good code. 
+
 **Git/Version Control** - Expand my current knowledge of different git commands. 
 
 **Linux/Unix Commands** - Expand my current knowledge of different linux commands. 
