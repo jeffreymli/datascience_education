@@ -16,9 +16,9 @@ To achieve a higher bar in quality, this includes:
 
 ## Project Outcomes 
 
-November - Productionize dash_ml interpretability package
+**November**: Productionize dash_ml interpretability package
 
-December - Build an end-to-end ML pipeline in Spark 
+**December**: Build an end-to-end ML pipeline in Spark 
 
 ## Skill De-Construction 
 #### 1. Clean, Pythonic Code [11/3 to 11/10]
