@@ -95,9 +95,10 @@ Resources:
 
 Method of Learning
 1. Read/Watch MIT Open Courseware Lecture [60 minutes]
-2. Active Recall on key concepts [10 minutes]
-3. Leetcode Problem + Optimize for Run-time[30 to 40 minutes]
-4. Commit my code to Github 
+2. Add notes into Anki 
+3. Active Recall on key concepts [10 minutes]
+4. Leetcode Problem + Optimize for Run-time[30 to 40 minutes]
+5. Commit my code to Github 
 
 **6. Distributed Computing [12/8 to 12/31]** - Note: This is subject to change. The purpose here is to understand how to significantly accelerate the speed of my code. This can include:
 - PySpark
