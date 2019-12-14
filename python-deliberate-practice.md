@@ -15,9 +15,10 @@ To achieve a higher bar in quality, this includes:
 - Understanding different runtimes 
 
 ## Project Outcomes 
-- Write a blog post outlining best Python programming practices 
-- Revamp & upgrade previous code, incorporating new concepts learned
-- Merge a contribution to dash_ml or another internal package 
+
+**November**: Productionize dash_ml interpretability package
+
+**December**: Build an end-to-end ML pipeline in Spark 
 
 ## Skill De-Construction 
 #### 1. Clean, Pythonic Code [11/3 to 11/10]
@@ -28,6 +29,7 @@ Resources:
 - [Clean Code in Jupyter Notebooks](https://www.youtube.com/watch?time_continue=390&v=2QLgf2YLlus)
 - [Data Scientists, Your Variable Names Suck. Here's how to fix them](https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be)
 - [Pylint & Other Linting Tools](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
+- [Coding Habits for Data Scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 
 Method of Learning/Training:
 1. Read Clean Python + Clean Code in Jupyter Notebooks [20 minutes]
@@ -47,12 +49,15 @@ Resources:
 - [Sci-Kit Learn Source code](https://github.com/scikit-learn/scikit-learn/tree/master/sklearn)
 
 Method of Learning
-1. Read Clean Python - Ch. 3/Read Sci-Kit Learn Source Code [20 minutes] 
-2. Rewrite code in at least one script/notebook according to rules learned [20 minutes] 
-3. Active Recall on prior concepts [20 minutes] 
-4. Commit code to Github [1 minute] 
+1. Read Clean Python - Ch. 3 [20 minutes] 
+2. Interpretability Class [40 minutes] 
+- Write code for interpretability class 
+- Get Stuck 
+- Identify concept to get unstuck 
+- Understand the concept
+3. Reflection + Plan Next Session [5 minutes] 
 
-Specific Outcome - Read Clean Python + Active Recall on concepts by writing my own program.
+Try this for a few days. If this doesn't work, then spend the entire time working on step 2. 
 
 <p>
 
@@ -65,12 +70,22 @@ Resources:
 
 Method of Learning
 1. Read Clean Python - Debugging/Testing or Read Scikit Learn Test Cases 
-2. Write test cases for at least one previously written function [20 minutes]
-3. Commit my code to Github 
+2. Interpretability Class [40 minutes] 
+- Write code for interpretability class 
+- Get Stuck 
+- Identify concept to get unstuck 
+- Understand the concept
+3. Reflection + Plan Next Session [5 minutes] 
 
 Specific Outcome - Write Unit Tests for Interpretability class 
 
 **4. Project - Productionize Interpretability Class or write Diff-in-Diff Library [11/24 to 11/31]** - Interpretability Class is already written. Re-writing dash_ml will likely be too much to take on. However, improving upon the interpretability class will allow me to apply everything learned in the prior three weeks. It'll also force me to get feedback from co-workers. 
+
+Method of Learning
+1. Write code for interpretability class 
+2. Get Stuck 
+3. Identify concept to get unstuck 
+4. Understand the concept
 
 **5. Python Runtimes [12/1 to 12/8]**  - Understand Big Oh notation and the speed of different implementations. Key here is to better understand how code runs underneath the hood so I can speed up my code. 
 
@@ -80,9 +95,10 @@ Resources:
 
 Method of Learning
 1. Read/Watch MIT Open Courseware Lecture [60 minutes]
-2. Active Recall on key concepts [10 minutes]
-3. Leetcode Problem + Optimize for Run-time[30 to 40 minutes]
-3. Commit my code to Github 
+2. Add notes into Anki 
+3. Active Recall on key concepts [10 minutes]
+4. Leetcode Problem + Optimize for Run-time[30 to 40 minutes]
+5. Commit my code to Github 
 
 **6. Distributed Computing [12/8 to 12/31]** - Note: This is subject to change. The purpose here is to understand how to significantly accelerate the speed of my code. This can include:
 - PySpark
@@ -93,11 +109,7 @@ Resources:
 
 *Specific Outcome* - Build an end to end ML pipeline using PySpark or Spark
 
-
-
-**7. Distributed Computing [11/31 to 12/31]** 
-
-In addition to the main curriculum, it'll be useful to improve my knowledge for tools to assist my development process. These should take at most, few hours to go through. These should all improve my development speed:
+**Implementing ML Algorithms from Scratch** - Write my own implementation of popular machine learning algorithms. This'll force me to deeply understand the models I'm using while also forcing me to write good code. 
 
 **Git/Version Control** - Expand my current knowledge of different git commands. 
 
