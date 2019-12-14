@@ -55,18 +55,3 @@ if __name__=='__main__':
 
 	l = [3,5,2,6,3,7,4]
 	merge_sort(l)
-
-
-
-
-
-
-
-
-
-
-
-	pass 
-
-def merge_list():
-	pass 
